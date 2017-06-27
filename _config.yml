@@ -1,16 +1,16 @@
-typography_spectrum: 0.4081469498708439
+layout_spectrum: 0.18356421072847476
+typography_spectrum: 0.3085498539265245
 color:
-  brandStrength: 0.35561664772155405
-  lightness: 0.9481011497180466
-  saturation: 0.6703717446187972
-  rhythmicContrast: 0.5679792959472663
+  brandStrength: 0.35744655170468703
+  lightness: 0.9434356204686815
+  saturation: 0.676384664318884
+  rhythmicContrast: 0.5680754365334011
   brandColors:
     - '#F2385A'
     - '#F5A503'
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-layout_spectrum: 0.7917932403122656
 name: Silev1n
 colors:
   brandColors:
