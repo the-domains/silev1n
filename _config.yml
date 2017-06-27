@@ -1,0 +1,76 @@
+typography_spectrum: 0.4081469498708439
+color:
+  brandStrength: 0.35561664772155405
+  lightness: 0.9481011497180466
+  saturation: 0.6703717446187972
+  rhythmicContrast: 0.5679792959472663
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+layout_spectrum: 0.7917932403122656
+name: Silev1n
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Instagram
+    url: 'https://www.instagram.com/silev1n'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/Silev1n'
+    type: external
+  - name: Google+
+    url: 'https://plus.google.com/108277587797880792697'
+    type: external
+  - name: Youtube
+    url: 'https://www.youtube.com/c/Silev1n'
+    type: external
+title: Welcome to Silev1n
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://ig-s-b-a.akamaihd.net/hphotos-ak-xat1/t51.2885-15/e35/16908188_1115954231846549_1650555111514046464_n.jpg">
+    src: >-
+      https://ig-s-b-a.akamaihd.net/hphotos-ak-xat1/t51.2885-15/e35/16908188_1115954231846549_1650555111514046464_n.jpg
+    metadata:
+      datePublished: null
+      isBasedOnUrl: >-
+        https://ig-s-b-a.akamaihd.net/hphotos-ak-xat1/t51.2885-15/e35/16908188_1115954231846549_1650555111514046464_n.jpg
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://ig-s-b-a.akamaihd.net'
+        name: Akamaihd
+        favicon: null
+        domain: ig-s-b-a.akamaihd.net
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  A travel & lifestyle blog featuring travel tips, and #iphone photography from
+  around the world.
+purpose:
+  - type: external
+    url: 'https://www.instagram.com/silev1n'
+    label: FOLLOW @SILEV1N ON INSTAGRAM
+  - type: contact
+    url: 'mailto:silev1n@icloud.com'
+    label: WORK WITH ME
+github: true
+analytics:
+  facebook: '1418723908206559'
+  google: UA-101719936-1
