@@ -18,16 +18,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BVHsltmDd2y/?taken-by=silev1n'
 title: ''
-datePublished: '2017-06-27T11:37:10.731Z'
-dateModified: '2017-06-27T11:37:09.447Z'
+datePublished: '2017-06-27T13:27:02.430Z'
+dateModified: '2017-06-27T13:27:01.463Z'
 description: End of the day in Dubai!
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-27-end-of-the-day-in-dubai.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-27T10:12:49.256Z'
+url: end-of-the-day-in-dubai/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
