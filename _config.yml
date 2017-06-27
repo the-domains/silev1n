@@ -1,9 +1,10 @@
-typography_spectrum: 0.37932215547447307
+layout_spectrum: 0.6388263143610099
+typography_spectrum: 0.993162734526311
 color:
-  brandStrength: 0.0017078767950176308
-  lightness: 0.941721839208414
-  saturation: 0.7777042921520032
-  rhythmicContrast: 0.7363966014768264
+  brandStrength: 0.5387987174565839
+  lightness: 0.6436029165707492
+  saturation: 0.13601495852887557
+  rhythmicContrast: 0.2266047449421027
   brandColors:
     - '#F2385A'
     - '#F5A503'
@@ -11,7 +12,6 @@ color:
     - '#4AD9D9'
     - '#36B1BF'
 github: true
-layout_spectrum: 0.23508338409605078
 analytics:
   facebook: '1418723908206559'
   google: UA-101719936-1
@@ -67,7 +67,6 @@ content:
       keywords:
         - ''
       description: Uploaded by Silev1n on 2017-06-27.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=YQiIMLprdIg&feature=applinks'
