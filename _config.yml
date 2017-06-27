@@ -44,33 +44,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d91d190b-c1bc-49a8-a0f9-100135fd1868.png
 title: Welcome to Silev1n
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://ig-s-b-a.akamaihd.net/hphotos-ak-xat1/t51.2885-15/e35/16908188_1115954231846549_1650555111514046464_n.jpg">
-    src: >-
-      https://ig-s-b-a.akamaihd.net/hphotos-ak-xat1/t51.2885-15/e35/16908188_1115954231846549_1650555111514046464_n.jpg
-    metadata:
-      datePublished: null
-      isBasedOnUrl: >-
-        https://ig-s-b-a.akamaihd.net/hphotos-ak-xat1/t51.2885-15/e35/16908188_1115954231846549_1650555111514046464_n.jpg
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://ig-s-b-a.akamaihd.net'
-        name: Akamaihd
-        favicon: null
-        domain: ig-s-b-a.akamaihd.net
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: >-
   A travel & lifestyle blog featuring travel tips, and #iphone photography from
   around the world.
