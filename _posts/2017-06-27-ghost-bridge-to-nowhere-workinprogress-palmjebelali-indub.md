@@ -29,8 +29,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BTT0ewYDznj/?taken-by=silev1n'
 title: >-
   Ghost Bridge to nowhere #workinprogress #palmjebelali #indubai
   #iphonephotography
-datePublished: '2017-06-27T11:37:10.718Z'
-dateModified: '2017-06-27T11:37:09.447Z'
+datePublished: '2017-07-04T13:39:59.837Z'
+dateModified: '2017-07-04T13:39:58.632Z'
 description: ''
 via: {}
 inFeed: true
