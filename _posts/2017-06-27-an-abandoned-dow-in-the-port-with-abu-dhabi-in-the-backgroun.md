@@ -31,8 +31,8 @@ title: >-
   contrast, and witness of a country growing extremely quickly. @warehouse421 is
   behind me and they showcase "The lest we forget" a touching exhibition about
   Emirati heritage. #photography #inabudhabi #pastandfuture
-datePublished: '2017-06-27T11:37:10.731Z'
-dateModified: '2017-06-27T11:37:09.447Z'
+datePublished: '2017-07-04T13:39:59.961Z'
+dateModified: '2017-07-04T13:39:58.632Z'
 description: ''
 via: {}
 inFeed: true
