@@ -31,8 +31,8 @@ title: >-
   unexpected discovery off beaten track. What a gorgeous place! As we walk away,
   a Heron flew back there to continue the lunch we probably interrupted.
   @natgeotravel @nytimestravel @natgeo.photography
-datePublished: '2017-07-04T13:39:59.959Z'
-dateModified: '2017-07-04T13:39:58.632Z'
+datePublished: '2017-07-04T13:49:40.368Z'
+dateModified: '2017-07-04T13:49:38.664Z'
 description: ''
 via: {}
 inFeed: true
