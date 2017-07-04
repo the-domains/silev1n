@@ -1,15 +1,15 @@
 ---
 publisher: {}
-dateModified: '2017-07-04T13:05:24.061Z'
+dateModified: '2017-07-04T13:39:58.632Z'
 via: {}
 description: Al Mina Port - Abu Dhabi - @warehouse421
 title: ''
 inFeed: true
 author: []
-datePublished: '2017-07-04T13:05:29.290Z'
+datePublished: '2017-07-04T13:39:59.857Z'
+sourcePath: _posts/2017-07-04-al-mina-port.md
 starred: true
 datePublishedOriginal: '2017-07-04T13:05:29.290Z'
-sourcePath: _posts/2017-07-04-al-mina-port.md
 _type: Blurb
 
 ---
