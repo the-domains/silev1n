@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BVZlQ9uD11V/?taken-by=silev1n'
 title: ''
-datePublished: '2017-06-27T11:37:10.719Z'
-dateModified: '2017-06-27T11:37:09.447Z'
+datePublished: '2017-07-04T13:39:59.838Z'
+dateModified: '2017-07-04T13:39:58.632Z'
 description: 'Al Qudra lakes / slow shutter / 5 minutes to Iftar. '
 via: {}
 inFeed: true
