@@ -30,8 +30,8 @@ title: >-
   I always loved the contrast between historical and new glass buildings,
   typical of USA. It is 4pm people are rushing to the nearest tube station while
   the #sun set on 5th Avenue #NYC
-datePublished: '2017-07-04T13:49:40.387Z'
-dateModified: '2017-07-04T13:49:38.664Z'
+datePublished: '2017-07-11T11:56:06.887Z'
+dateModified: '2017-07-11T11:56:05.839Z'
 description: ''
 via: {}
 inFeed: true
