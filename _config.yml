@@ -15,6 +15,7 @@ github: true
 analytics:
   facebook: '1418723908206559'
   google: UA-101719936-1
+  twitter: silev1n
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/aed2b3aa-9737-4764-8ecb-7ca7f345d314.png
 name: Silev1n
@@ -122,3 +123,7 @@ purpose:
   - type: contact
     url: 'mailto:silev1n@icloud.com'
     label: WORK WITH ME
+author:
+  url: 'https://www.flickr.com/photos/silev1n/'
+  name: silev1n
+  email: silev1n@icloud.com
