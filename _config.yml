@@ -1,4 +1,3 @@
-layout_spectrum: 0.6119436636432489
 typography_spectrum: 0.3377740290008559
 color:
   brandStrength: 0.7811223259861443
@@ -12,10 +11,15 @@ color:
     - '#4AD9D9'
     - '#36B1BF'
 github: true
+layout_spectrum: 0.6119436636432489
 analytics:
   facebook: '1418723908206559'
   google: UA-101719936-1
   twitter: silev1n
+author:
+  url: 'https://www.flickr.com/photos/silev1n/'
+  name: silev1n
+  email: silev1n@icloud.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/aed2b3aa-9737-4764-8ecb-7ca7f345d314.png
 name: Silev1n
@@ -39,6 +43,10 @@ navigation:
   - name: Youtube
     url: 'https://www.youtube.com/c/Silev1n'
     type: external
+  - name: Work with Me
+    url: >-
+      https://www.dropbox.com/s/cs0naum6pgaz79n/Silev1n%20-%20Sylvain%20Gergeaux%20-%20Media%20Kit%202017.pdf
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d91d190b-c1bc-49a8-a0f9-100135fd1868.png
 title: Welcome to Silev1n
@@ -52,19 +60,17 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=YQiIMLprdIg'
+      keywords:
+        - ''
+      related: []
       author:
         - name: Silev1n
           url: 'https://www.youtube.com/channel/UCIyxM_TUVadcyBJucX2oKmQ'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
-      keywords:
-        - ''
-      description: Uploaded by Silev1n on 2017-06-27.
+      '@context': 'http://schema.org'
+      title: 27 juin 2017
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=YQiIMLprdIg&feature=applinks'
@@ -103,10 +109,12 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=YQiIMLprdIg'
-      title: 27 juin 2017
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: Uploaded by Silev1n on 2017-06-27.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -120,7 +128,3 @@ purpose:
   - type: contact
     url: 'mailto:silev1n@icloud.com'
     label: Work with Me
-author:
-  url: 'https://www.flickr.com/photos/silev1n/'
-  name: silev1n
-  email: silev1n@icloud.com
