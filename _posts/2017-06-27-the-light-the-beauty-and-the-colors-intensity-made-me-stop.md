@@ -33,8 +33,8 @@ title: >-
   faces getting bigger as the sun pokes through the clouds. That is also the
   view you could not see from the little house by the pond. @natgeo
   @natgeo.photography @nytimestravel #clouds #blue #green #beach
-datePublished: '2017-07-11T11:56:06.934Z'
-dateModified: '2017-07-11T11:56:05.839Z'
+datePublished: '2017-07-12T10:11:23.557Z'
+dateModified: '2017-07-12T10:11:21.717Z'
 description: ''
 via: {}
 inFeed: true
