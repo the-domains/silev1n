@@ -31,8 +31,8 @@ title: >-
   prayer from the minaret. The movement of the fountains and worshippers is a
   contrast to the impressive Mosque. #inabudhabi #photography #slowshutter
   #shotoniphone7
-datePublished: '2017-07-11T11:56:06.986Z'
-dateModified: '2017-07-11T11:56:05.839Z'
+datePublished: '2017-07-12T10:11:23.645Z'
+dateModified: '2017-07-12T10:11:21.717Z'
 description: ''
 via: {}
 inFeed: true
