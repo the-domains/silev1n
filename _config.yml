@@ -43,9 +43,6 @@ navigation:
   - name: Youtube
     url: 'https://www.youtube.com/c/Silev1n'
     type: external
-  - name: ' 2975259.html'
-    id: 2f6bfce1-20d7-4f78-b5b7-46d8d38b9950
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d91d190b-c1bc-49a8-a0f9-100135fd1868.png
 title: Welcome to Silev1n
